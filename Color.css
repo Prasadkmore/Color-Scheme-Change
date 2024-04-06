@@ -1,0 +1,58 @@
+
+
+h2{
+
+    color: red;
+    margin-left: 37%;
+    margin-top: 10%;
+}
+
+div{
+
+    margin-left: 40%;
+    margin-top: 5%;
+
+}
+#grey{
+
+    background-color: grey;
+    display: block;
+    width: 20%;
+    height:20%;
+    border:2px solid ;
+    text-align: center;
+    font-style: italic;
+    
+    
+  
+
+}
+#white{
+
+    background-color: white;
+    display: block;
+    width: 20%;
+    height:20%;
+    border:2px solid ;
+     text-align: center;
+    font-style: italic;
+}
+
+#blue{
+    background-color: blue;
+    display: block;
+    width: 20%;
+    height:20%;
+    border:2px solid ;
+     text-align: center;
+    font-style: italic;
+}
+#yellow{
+    background-color: yellow;
+    display: block;
+    width: 20%;
+    height:20%;
+    border:2px solid ;
+     text-align: center;
+    font-style: italic;
+}
